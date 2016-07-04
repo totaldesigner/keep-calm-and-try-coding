@@ -1,7 +1,3 @@
-/**
- * Created by mspark on 16. 6. 29.
- */
-
 // Detecting if a string has unique characters
 var word = "Unique";
 var reg = /(.)(.*?)(\1)/g;
